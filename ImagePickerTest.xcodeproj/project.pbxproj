@@ -13,6 +13,7 @@
 		4DA83DDB1B2055C8002E2015 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DA83DD91B2055C8002E2015 /* Main.storyboard */; };
 		4DA83DDD1B2055C8002E2015 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DA83DDC1B2055C8002E2015 /* Images.xcassets */; };
 		4DA83DEC1B2055C8002E2015 /* ImagePickerTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DA83DEB1B2055C8002E2015 /* ImagePickerTestTests.m */; };
+		4DA83DF61B259B91002E2015 /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DA83DF51B259B91002E2015 /* 18.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		4DA83DE51B2055C8002E2015 /* ImagePickerTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImagePickerTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DA83DEA1B2055C8002E2015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DA83DEB1B2055C8002E2015 /* ImagePickerTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagePickerTestTests.m; sourceTree = "<group>"; };
+		4DA83DF51B259B91002E2015 /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		4DA83DCF1B2055C8002E2015 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4DA83DF51B259B91002E2015 /* 18.jpg */,
 				4DA83DD01B2055C8002E2015 /* Info.plist */,
 				4DA83DD11B2055C8002E2015 /* main.m */,
 			);
@@ -198,6 +201,7 @@
 			files = (
 				4DA83DDB1B2055C8002E2015 /* Main.storyboard in Resources */,
 				4DA83DDD1B2055C8002E2015 /* Images.xcassets in Resources */,
+				4DA83DF61B259B91002E2015 /* 18.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,6 +404,7 @@
 				4DA83DF11B2055C8002E2015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4DA83DF21B2055C8002E2015 /* Build configuration list for PBXNativeTarget "ImagePickerTestTests" */ = {
 			isa = XCConfigurationList;
@@ -408,6 +413,7 @@
 				4DA83DF41B2055C8002E2015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
